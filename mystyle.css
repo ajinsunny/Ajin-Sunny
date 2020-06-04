@@ -1,0 +1,35 @@
+
+h1 {
+color: white;
+text-align: center;
+font-family: Sans-Serif;
+padding-top: 50px;
+font-size: 40;
+
+
+}
+
+
+
+body {
+        
+    background-color: #005DAA;
+    text-align: center;
+    color: white;
+
+}
+
+#contactbar {
+
+    text-align: center;
+    font-family: Sans-Serif;
+
+}
+
+a {
+        text-decoration: none;
+        color: white;
+
+}
+
+
